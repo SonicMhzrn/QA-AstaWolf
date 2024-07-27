@@ -1,0 +1,10 @@
+{
+    "validUser": {
+      "username": "ragaya7048@hostlace.com",
+      "password": "q3xZ3yWwCFPOBrf"
+    },
+    "invalidUserPass": {
+      "username": "ragaya7048@hostlace.com",
+      "password": "Password1234"
+    }
+  }
